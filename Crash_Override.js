@@ -21,9 +21,8 @@
 // Happy hacking!
 
 function aliasGen(first, last){
-  let whoa = ''
-  let x = first[0]
-  let y = last[0]
+  let x = first[0].toUpperCase()
+  let y = last[0].toUpperCase()
   
   return firstName[x] && surname[y] ? `${firstName[x]} ${surname[y]}` : 'Your name must start with a letter from A - Z.'
 }
