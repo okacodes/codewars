@@ -7,12 +7,8 @@
 
 function solution(str){
   let arr = []
-  let split = str.split('')
-  for(x of split){
-    if(split.indexOf(x) % 2 === 0){
-      let poo = split.join('').charAt(split.indexOf(x) + 1)
-      poo === '' ? arr.push(`${x}_`) : arr.push(`${x}${poo}`)       
+  for (let i = 0; i < str.length; i += 2){
+    arr.push(`${str[i] + (str[i+1] || '_')}`)
   }
- }
- return arr
+  return arr
 }
