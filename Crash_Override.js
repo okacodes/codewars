@@ -26,3 +26,5 @@ function aliasGen(first, last){
   
   return firstName[x] && surname[y] ? `${firstName[x]} ${surname[y]}` : 'Your name must start with a letter from A - Z.'
 }
+
+// Coming back to this to use as a reference.
