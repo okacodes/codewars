@@ -18,6 +18,7 @@
 //     The input array is never empty.
 
 // Example
+// Shhh
 
 // frame(['Create', 'a', 'frame'], '+')
 
