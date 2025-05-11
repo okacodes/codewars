@@ -18,7 +18,7 @@
 //     The input array is never empty.
 
 // Example
-// Shhh
+// Shhh This would be really cool to use on a CLI project
 
 // frame(['Create', 'a', 'frame'], '+')
 
