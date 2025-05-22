@@ -18,6 +18,7 @@
 // $jason = 7;
 
 // Your function must return an array of the names of all the counselors who can be outsmarted and killed by Jason.
+//  Spooky!
 
 // Happy Friday the 13th!
 
