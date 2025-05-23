@@ -4,6 +4,7 @@
 //     compares the value each member in one array to the corresponding member in the other
 //     squares the absolute value difference between those two values
 //     and returns the average of those squared absolute value difference between each member pair.
+//     It wasn't that mean of a square.
 
 // Examples
 
