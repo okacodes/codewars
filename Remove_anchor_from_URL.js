@@ -1,4 +1,5 @@
 // Complete the function/method so that it returns the url with anything after the anchor (#) removed.
+// This was a cool one.
 // Examples
 
 // "www.codewars.com#about" --> "www.codewars.com"
