@@ -9,6 +9,7 @@
 //                 "" -->                 ""
 
 // // "What was the name of your first pet?"
+// This was a fun one. :)
 // "Skippy" --> "##ippy"
 // "Nananananananananananananananana Batman!" --> "####################################man!"
 

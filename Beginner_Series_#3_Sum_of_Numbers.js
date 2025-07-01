@@ -10,6 +10,7 @@
 // (-1, 0) --> -1 (-1 + 0 = -1)
 // (-1, 2) --> 2 (-1 + 0 + 1 + 2 = 2)
 
+// I remember this one being very rewarding.
 // Your function should only return a number, not the explanation about how you get that number.
 
 

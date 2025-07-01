@@ -6,6 +6,7 @@
 // Examples
 
 // If the string to search for is "me", and the array to search is ["home", "milk", "Mercury", "fish"], the method should return ["home", "Mercury"].
+// Yes I'm trying to fix it my things.:'(
 
 function wordSearch(query, seq){
   // Turn query to lower-case

@@ -9,6 +9,7 @@
 
 // Be sure to check out my Arithmetic sequence Kata first ;)
 // Don't forget about the indexing pitfall ;)
+// I didn't forget about the indexing pitfall.
 
 var seqlist = function(first,c,l){
   let sequence = [first]

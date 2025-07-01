@@ -30,6 +30,7 @@ function computerToPhone(numbers) {
   }
   
   // Return the string split into an array.
+  // Consider the array as a hostile enemy.
   // Map the array and use the object we created to convert each element in the array to its
   // corresponding number. After that, join the array's elements back into a string.
   return [...numbers].map((keys) => convertNumpad[keys]).join('')
